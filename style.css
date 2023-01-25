@@ -1,0 +1,33 @@
+#principal {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bold;
+    padding-left: 10px;
+    color: whitesmoke;
+}
+
+
+a {
+    font-size: 20px;
+    font-family: 'helvetica', arial, sans-serif;
+    padding-left: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+
+a:visited {
+    color: rgba(245, 245, 245, 0.856);
+}
+
+a:hover {
+    color: black;
+}
+
+#box {
+    background-image: url("../Cartao_dev/istockphoto-1285395672-612x612.jpg");
+    background-size: cover;
+    padding: 10px 10px 30px 10px;
+    width: 500px;
+    border-radius: 3px;
+}
